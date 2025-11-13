@@ -1,39 +1,44 @@
-## Hi there 👋
+# 👋 Hi there, I’m Christina Dobbins  
 
-<!--
-**cdobbi/cdobbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Faith-rooted rabbit breeder 🐇 and software developer 💻 based in Payson, Utah.  
+I combine hands-on care with practical code—building tools that make livestock care smarter, clearer, and more accessible.  
 
-Christina Dobbins
-👋 Hello, GitHub! I’m Christina, a software development student at BYU Pathway and a hands-on problem solver. I combine my background in rabbit breeding with my passion for building digital tools that make livestock care smarter and more transparent.
+---
 
-🌱 About Me
-Currently studying Software Development (Block 6, BYU Pathway).
+## 🌱 About Me  
+- 🎓 Software Development student (Block 6, BYU Pathway)  
+- 📝 Experienced in technical documentation, workflow optimization, and troubleshooting  
+- 🏡 Small business operator & property manager—resourceful and systems-driven  
+- 🐇 Breeder of Rhinelander, Mini Lop, and Harlequin rabbits, focused on genetics and care  
 
-Experienced in technical documentation, workflow optimization, and troubleshooting.
+🌐 Website: [Rhinelander Rabbitry](https://www.rhinelander-rabbitry.com)  
 
-Small business operator and property manager—resourceful and systems-driven.
+---
 
-Breeder of Rhinelander, Mini Lop, and Harlequin rabbits, with a focus on genetics and care.
+## 💻 Skills & Technologies  
 
-Website:
-https://www.rhinelander-rabbitry.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-25A162?logo=jest&logoColor=white" />
+</p>
 
-💻 Skills & Technologies
-Languages: Python, JavaScript, HTML, CSS
+**Strengths:** Documentation • Test Case Mapping • Workflow Design • Genetic Modeling  
 
-Tools: GitHub, VS Code, SQL, testing frameworks
+---
 
-Strengths: Documentation, test case mapping, workflow design, genetic modeling
+## 🐇 Featured Projects  
+- **Rabbit Genome Calculator** – Predicts offspring genotypes for breeders  
+- **Quilt E-Commerce Site** – Full-stack project with gallery, design, and payment features  
+- **Workflow Optimizer** – Assignment-ready documentation mapped to rubrics  
 
-🐇 Featured Projects
-Rabbit Genome Calculator – Predicts offspring genotypes for breeders.
+---
 
-Quilt E-Commerce Site – Full-stack project with gallery, design, and payment features.
-
-Workflow Optimizer – Assignment-ready documentation mapped to rubrics.
-
-🔗 Let’s Connect
-LinkedIn:
-www.linkedin.com/in/christina-dobbins
-
-GitHub Portfolio
+## 🔗 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-dobbins)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/cdobbi)  
