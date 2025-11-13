@@ -25,6 +25,7 @@ I combine hands-on care with practical code—building tools that make livestock
 ## 💻 Skills & Technologies  
 
 <p align="center">
+  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
