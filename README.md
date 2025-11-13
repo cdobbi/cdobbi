@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/codingrabbits.png" alt="Banner" />
+</p>
 
 <p align="center">
   <img src="assets/banner.png" alt="Banner" />
