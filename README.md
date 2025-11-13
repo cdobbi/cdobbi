@@ -35,7 +35,8 @@ I combine hands-on care with practical code—building tools that make livestock
 ## 🐇 Featured Projects  
 - **Rabbit Genome Calculator** – Predicts offspring genotypes for breeders  
 - **Quilt E-Commerce Site** – Full-stack project with gallery, design, and payment features  
-- **Workflow Optimizer** – Assignment-ready documentation mapped to rubrics  
+- [**Livestock Lineup**](https://livestock-lineup.onrender.com) – Full-stack web application designed with scalability and usability in mind, streamlines the logistics of show management while providing a clear interface for exhibitors.  
+
 
 ---
 
