@@ -33,9 +33,13 @@ I combine hands-on care with practical code—building tools that make livestock
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgAdmin4-0064A5?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pusher-300D4F?logo=pusher&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing-25A162?logo=jest&logoColor=white" />
 </p>
+
 
 
 
