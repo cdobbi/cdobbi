@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" />
+  <img src="coding-rabbits.png" alt="Banner" />
   <br>
   <em>Rhinelander Rabbinary – Code Meets Care</em>
 </p>
