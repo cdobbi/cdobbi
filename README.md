@@ -38,6 +38,16 @@ I combine hands-on care with practical code—building tools that make livestock
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Pusher-300D4F?logo=pusher&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing-25A162?logo=jest&logoColor=white" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+</p>
+
 </p>
 
 
