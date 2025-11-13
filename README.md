@@ -25,7 +25,7 @@ I combine hands-on care with practical code—building tools that make livestock
 ## 💻 Skills & Technologies  
 
 <p align="center">
-  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -35,6 +35,7 @@ I combine hands-on care with practical code—building tools that make livestock
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing-25A162?logo=jest&logoColor=white" />
 </p>
+
 
 **Strengths:** Documentation • Test Case Mapping • Workflow Design • Genetic Modeling  
 
