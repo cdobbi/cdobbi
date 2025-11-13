@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" />
+  <br>
+  <em>Rhinelander Rabbinary – Code Meets Care</em>
+</p>
+
+
 # 👋 Hi there, I’m Christina Dobbins  
 
 Faith-rooted rabbit breeder 🐇 and software developer 💻 based in Payson, Utah.  
