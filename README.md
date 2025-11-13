@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/codingrabbits.png" alt="Banner" />
+  <img src="assets/coding-rabbits.png" alt="Banner" />
 </p>
 
 <p align="center">
