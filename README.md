@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Christina Dobbins  
 
 Faith-rooted rabbit breeder 🐇 and software developer 💻 based in Payson, Utah.  
-I combine hands-on care with practical code—building tools that make livestock care smarter, clearer, and more accessible.  
+I combine hands-on care with practical code—building tools that make livestock care smarter and more accessible.  
 
 ---
 
