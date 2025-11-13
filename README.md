@@ -1,8 +1,4 @@
 <p align="center">
- ![Banner](coding-rabbits.png)
-</p>
-
-<p align="center">
   <img src="coding-rabbits.png" alt="Banner" />
   <br>
   <em>Rhinelander Rabbinary – Code Meets Care</em>
