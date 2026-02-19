@@ -13,7 +13,7 @@ I combine hands-on care with practical code—building tools for the care and ma
 ---
 
 ## 🌱 About Me  
-- 🎓 Software Development student (Block 6, BYU Pathway)  
+- 🎓 Software Development student (senior year, BYU Pathway)  
 - 📝 Experienced in technical documentation, workflow optimization, and troubleshooting  
 - 🏡 Small business operator & property manager—resourceful and systems-driven  
 - 🐇 Breeder of Rhinelander, Mini Lop, and Harlequin rabbits, focused on genetics and care  
